@@ -1,7 +1,7 @@
-ID,Nombre,Tipo(s),Altura,Peso,Nombre Invertido
-6,charizard,"fire, flying",17,905,drazirahc
-12,butterfree,"bug, flying",11,320,eerfrettub
-17,pidgeotto,"normal, flying",11,300,ottoegdip
-18,pidgeot,"normal, flying",15,395,toegdip
-22,fearow,"normal, flying",12,380,woraef
-42,golbat,"poison, flying",16,550,tablog
+ID;Nombre;Tipo(s);Altura;Peso;Nombre Invertido
+6;charizard;fire, flying;17;905;drazirahc
+12;butterfree;bug, flying;11;320;eerfrettub
+17;pidgeotto;normal, flying;11;300;ottoegdip
+18;pidgeot;normal, flying;15;395;toegdip
+22;fearow;normal, flying;12;380;woraef
+42;golbat;poison, flying;16;550;tablog
